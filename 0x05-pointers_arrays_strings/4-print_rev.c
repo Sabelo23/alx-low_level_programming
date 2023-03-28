@@ -1,13 +1,11 @@
-#include "stdio.h"
+#include "main.h"
 
 /**
  * main - imprime en reversa
- *
- * Description: function that prints a string, in reverse, and a new line.
  * @s: string
- *
  * return: 0
  */
+
 void print_rev(char *s);
 {
 
