@@ -4,8 +4,10 @@
  * @a: integer tpo swap
  * @b: integer to swap
  */
-void swap_int(int *a, int *b);
+void swap_int(int *a, int *b)
+
 {
+
 	int m;
 
 	m = *a;
