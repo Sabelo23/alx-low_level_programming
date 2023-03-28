@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * Swap_in - swaps the values of two integers
+ * Swap_int - a function that swaps the values of two integers.
  * @a: integer tpo swap
  * @b: integer to swap
  */
-void swap_int(int *a, int *b)
+void swap_int(int *a, int *b);
 {
 	int m;
 
