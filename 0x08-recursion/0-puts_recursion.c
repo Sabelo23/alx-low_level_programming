@@ -1,4 +1,6 @@
 #include "main.h"
+#include <unistd.h>
+
 /**
  * _putchar_recursion - function like puts();
  * @s: input
@@ -9,7 +11,7 @@ void _putchar_recursion(char *s)
 
 	if (*s)
 	{
-	-putchar(*s);
+	_putchar(*s);
 
 	_puts_recursion(s + 1);
 	}
