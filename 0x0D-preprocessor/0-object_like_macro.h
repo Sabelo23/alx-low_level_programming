@@ -1,3 +1,4 @@
+#include <stdio.h>
 #ifndef OBJECT_LIKE_MACRO_H
 #define OBJECT_LIKE_MICRO_H
 
