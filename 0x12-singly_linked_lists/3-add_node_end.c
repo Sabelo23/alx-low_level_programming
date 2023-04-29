@@ -1,6 +1,6 @@
 #include <stdlib.h>
-#include "lists.h"
 #include <string.h>
+#include "lists.h"
 
 /**
  * add_node_end - Function that adds new node at the end of linked list
